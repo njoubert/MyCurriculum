@@ -8,15 +8,22 @@ Focus on one or two things at once. (Two is good!). More than that, go in the ba
 
 ## Technical
 
+### Signals and Systems esp. for Robotics
+
 - **Mathematical Underpinnings:** Stanford CS205A Mathematical Methods for Robotics, Vision, and Graphics (Justin Solomon), *or*, Stanford EE263 Introduction to Linear Dynamical Systems (Prof. Stephen Boyd)
 - **Optimization:** Stanford EE364a and EE364b Convex Optimization (Prof. Stephen Boyd)
 - **Underactuated Robotics:** MIT 6.832 Underactuated Robotics (Prof. Russell Tedrake)
 
+### AI and ML
 
-### Autonomous Robots
+- 
+- **Probabilistic Graphical Models:** Stanford CS228 PGMs
 
 ## Emotional
 
 - **Psychology:** Yale Intro to Psychology (Prof. Philip Bloom) 
 - **HumBio:** Stanford Human Behavioral Biology (Prof. Robert Sapolsky)
 
+## Career Planning
+
+- Stanford Eng 311B Designing the Professional
