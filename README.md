@@ -6,6 +6,8 @@ My Curriculum for Being a Lifetime Student
 
 Focus on one or two things at once. (Two is good!). More than that, go in the back of the queue.
 
+In general, take the course by the guy that wrote the textbook :)
+
 # Technical
 
 ## Signals and Systems esp. for Robotics (Estimation, Control, etc.)
@@ -19,12 +21,17 @@ Awesome course that covers all the fundamentals with good free online textbook. 
 Perfected by [Justin Solomon](http://people.csail.mit.edu/jsolomon/), now professor at MIT.
 
 [http://graphics.stanford.edu/courses/cs205a-17-spring/index.html](Website)
-[http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf](Textbook PDF)
+
+[http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf](Free Textbook: Numerical Methods by Solomon)
 
 
 **Stanford EE364a&b Convex Optimization (Prof. Stephen Boyd)**
 
 Solid Optimization course with badass professor, another good free online textbook, lecture notes kicks ass. 
+
+[http://ee364a.stanford.edu/](Website)
+
+[http://stanford.edu/~boyd/cvxbook/](Free Textbook: Convex Optimization by Boys and Vandenberghe)
 
 ### Underactuated Robotics
 
