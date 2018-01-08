@@ -14,16 +14,26 @@ Focus on one or two things at once. (Two is good!). More than that, go in the ba
 
 **Stanford CS205A Mathematical Models for Robotics, Vision and Graphics (Justin Solomon)**
 
-**Stanford EE364a&b Convex Optimization (Prof. Stephen Boyd)
+Awesome course that covers all the fundamentals with good free online textbook. Math for CS folks. Linear Systems and Linearization, Eigenproblems and SVD, Unconstrained Optimization, Conjugate Gradiants, Interpolation, Integration and Differentiation, Ordinary Differential Equations. 
+
+Perfected by [Justin Solomon](http://people.csail.mit.edu/jsolomon/), now professor at MIT.
+
+[http://graphics.stanford.edu/courses/cs205a-17-spring/index.html](Website)
+[http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf](Textbook PDF)
+
+
+**Stanford EE364a&b Convex Optimization (Prof. Stephen Boyd)**
+
+Solid Optimization course with badass professor, another good free online textbook, lecture notes kicks ass. 
 
 ### Underactuated Robotics
 
-**MIT 6.832 Underactuated Robotics (Prof. Russell Tedrake) **
+**MIT 6.832 Underactuated Robotics (Prof. Russell Tedrake)**
 
 ## AI and ML
 
-- 
-- **Probabilistic Graphical Models:** Stanford CS228 PGMs
+
+**Stanford CS228 Probabilistic Graphical Models (Daphne Kohler)**
 
 # Humanist
 
