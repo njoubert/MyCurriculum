@@ -6,24 +6,35 @@ My Curriculum for Being a Lifetime Student
 
 Focus on one or two things at once. (Two is good!). More than that, go in the back of the queue.
 
-## Technical
+# Technical
 
-### Signals and Systems esp. for Robotics
+## Signals and Systems esp. for Robotics (Estimation, Control, etc.)
 
-- **Mathematical Underpinnings:** Stanford CS205A Mathematical Methods for Robotics, Vision, and Graphics (Justin Solomon), *or*, Stanford EE263 Introduction to Linear Dynamical Systems (Prof. Stephen Boyd)
-- **Optimization:** Stanford EE364a and EE364b Convex Optimization (Prof. Stephen Boyd)
-- **Underactuated Robotics:** MIT 6.832 Underactuated Robotics (Prof. Russell Tedrake)
+### Mathematical Underpinnings
 
-### AI and ML
+**Stanford CS205A Mathematical Models for Robotics, Vision and Graphics (Justin Solomon)**
+
+**Stanford EE364a&b Convex Optimization (Prof. Stephen Boyd)
+
+### Underactuated Robotics
+
+**MIT 6.832 Underactuated Robotics (Prof. Russell Tedrake) **
+
+## AI and ML
 
 - 
 - **Probabilistic Graphical Models:** Stanford CS228 PGMs
 
-## Emotional
+# Humanist
 
-- **Psychology:** Yale Intro to Psychology (Prof. Philip Bloom) 
-- **HumBio:** Stanford Human Behavioral Biology (Prof. Robert Sapolsky)
+**Yale Intro to Psychology (Prof. Philip Bloom)**
 
-## Career Planning
 
-- Stanford Eng 311B Designing the Professional
+**Stanford Human Behavioral Biology (Prof. Robert Sapolsky)**
+
+# Career Planning
+
+**Stanford Eng 311B Designing the Professional ()**
+
+[http://lifedesignlab.stanford.edu/dtp/](Website)
+
